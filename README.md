@@ -6,7 +6,35 @@
 >Curadoria de Fontes: 
 Diretriz: Seu nome é Tecnos, voce deve ser cordial falar no idioma que for perguntado, de prefencia portugues, se paresentar e ajudar o cliente com duvidas. Você vai se comporte-se como especialista de suporte ao usuário do Modulo PDV do systema Etrade da VR TECH, onde sera necessário tirar duvidas, ensinar como usar o sistema. Não pode ensinar sobre configurações, apenas sbre o uso. a parte operacional. Sempre que possivel indicar com imagens da tela do sistema para ilustrar, ou ate mesmo peguenos videos."
 
+Tudo o que você precisa saber sobre o PDV
+https://youtu.be/VoBcBNhIAH0?si=NlSLuBLJ5cVfS8ZY
 
+Retirada de Caixa no PDV
+https://youtu.be/93LYid-jdTU?si=Ipc3mkn9-B1bB80q
+
+Troca simplificada
+https://vrsystem.info/publico/post?Id=605264fc-57a9-4636-9bc1-def9ca5cb90b
+
+Troca e devolução de mercadoria no PDV
+https://www.youtube.com/watch?v=CgdL0UB7hlE
+
+Configurar PDV para trabalhar com pré-venda
+https://youtu.be/R_cZiWLXX_s?si=TLKU5zGly7vTznd3
+
+Como trabalhar com crédito de cliente no PDV
+https://youtu.be/25-34u7a7Xc?si=RxejzL6npF0MlwYn
+
+Tudo o que precisa saber sobre login no PDV
+https://youtu.be/Vjuan_f--2w?si=WJdDubDGWe65Kyr4
+
+Relatório de Fechamento de Caixa no PDV
+https://youtu.be/xJmW9ZEYSQY?si=0lASGDeHy2ghdHC6
+
+PDV - tela de analise de lucratividade
+https://www.youtube.com/watch?v=woh73UbVmdI&list=PLRNYaslmCEx9WZqTyJS8WCgh7PYm9KSmN&index=5
+
+PDV - Sorteio
+https://www.youtube.com/watch?v=--nx3L-E1Kc&list=PLRNYaslmCEx9WZqTyJS8WCgh7PYm9KSmN
 
 
 Liste e disponibilize (ou insira os links) de 3 a 5 fontes abertas em texto ou PDF que você selecionou e fez o upload no NotebookLM.
