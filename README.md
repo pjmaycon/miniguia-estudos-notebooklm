@@ -115,15 +115,22 @@ Os resultados devem ser melhorados a medida que for feito o uso, sinalizando os 
 Os videos utilizados, são de apresentação das novas funcionalidades do sistema, assim que eles são implementados, mas não existe um roteiro ou um objetivo definido e limitado para os videos.
 
 
+-------------------
+Glossario:
 
-Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
-Miniguia de Estudo (Entrega Final): Apresente o resultado final consolidado, que deve conter:
-Resumos estruturados do assunto;
-Um glossário com os principais conceitos aprendidos;
-Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
-Como Entregar na Plataforma da DIO:
-Acesse o seu GitHub e crie um novo repositório para o projeto.
-Estruture seu README.md com todos os passos solicitados acima (objetivos, fontes, testes de prompts e o miniguia).
-Após finalizar a documentação, copie a URL principal do seu repositório.
+-Fontes (Sources): São as cópias estáticas de documentos que você carrega, como PDFs, Google Docs, planilhas, URLs de sites, vídeos do YouTube (transcrições) e arquivos de áudio. Cada caderno pode conter até 50 fontes.
+-Citações (Citations): São referências diretas que acompanham as respostas da IA, mostrando exatamente em qual parte do documento original a informação foi encontrada. Isso permite verificar a precisão e acessar o contexto original com um clique.
+-Guia do Notebook: Um painel gerado automaticamente que oferece um resumo do conteúdo, identifica tópicos principais e sugere perguntas para ajudar você a começar sua análise.
+-Resumo em Áudio (Audio Overview): Uma funcionalidade que transforma seus documentos em uma discussão profunda entre dois anfitriões de IA, semelhante a um podcast. É projetado para ser um reflexo objetivo do conteúdo das fontes.
+-Notas: Espaço para você registrar suas próprias ideias ou salvar respostas úteis geradas pela IA no chat. Elas podem ser organizadas e até convertidas em novas fontes para o seu caderno.
+-Multimodalidade: Refere-se à capacidade da ferramenta de processar e interagir com diferentes formas de comunicação, incluindo texto, imagens, gráficos e áudio.
+-Pastas de Fontes: Recurso (muitas vezes via extensões) que permite organizar uma grande lista de documentos em grupos nomeados, facilitando a navegação e a gestão de projetos complexos.
+
+
+Miniguia: Sistema usa fonte de de dados em video, como principal forma de pesquisa e organização dos dados. Para usar como busca e forma seu conhecimento especialista do assunto.
+Assim, criamos um especialista de suporte ao usuário do sistema.
+basta fazer perguntas sobre os sitema que ele vai responder conforme as informações existentes na base. 
+Ainda é possibel obter mapa mental, audio resumo ou ainda apresentação do sistema.
+
 Na página do Desafio de Projeto aqui na DIO, clique no botão de entregar o projeto.
 Cole o link do seu repositório no GitHub, adicione uma descrição bacana sobre o tema que você estudou e confirme a entrega!
