@@ -36,9 +36,36 @@ https://www.youtube.com/watch?v=woh73UbVmdI&list=PLRNYaslmCEx9WZqTyJS8WCgh7PYm9K
 PDV - Sorteio
 https://www.youtube.com/watch?v=--nx3L-E1Kc&list=PLRNYaslmCEx9WZqTyJS8WCgh7PYm9KSmN
 
+Com o uso da pesquisa automatizca de forma aprofundada a aplicação encontou varios links relavantes e outros nem tanto, foi necessário fazer uma seleção, para aproveitar a pesquisa automatica.
 
-Liste e disponibilize (ou insira os links) de 3 a 5 fontes abertas em texto ou PDF que você selecionou e fez o upload no NotebookLM.
-Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
+
+Engenharia de Prompts e "Cicatrizes": 
+-Nas primeiras interações, ele as respostas era misturadas em ingles e portugues, foi necessário reeditar a diretriz de comportamento.
+[Usuário]
+Como processar trocas e gerar crédito para o cliente?
+
+[bot]
+..."Troca (Exchange): How to perform an exchange in the PDV.
+Geração de Crédito (Generating Credit): How to issue credit to a customer instead of a refund or as part of an exchange...."
+
+Ao alterar a Diretriz, observou uma mudança satisfatória.
+
+-Como consultar o saldo de crédito de um cliente no sistema?
+A resposat obtida foi condizente com o dados do sistema e acrescentou um pouco de conhecimento de processos de venda e fiscal.
+
+-Posso fazer uma venda com varias formas de pagamento?
+Novamente uma resposta condizente com o sistema.
+
+-Qual o prazo de troca de mercadoria pelo sistema?
+Nessa porgunta alem de responder com base no sistema, ele ainda complementou as informações inserindo informações fiscais imporantes.
+
+
+
+Avaliação Geral: A ferramenta se mostrou 
+
+
+
+Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
 Miniguia de Estudo (Entrega Final): Apresente o resultado final consolidado, que deve conter:
 Resumos estruturados do assunto;
 Um glossário com os principais conceitos aprendidos;
