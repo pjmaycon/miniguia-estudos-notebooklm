@@ -132,5 +132,3 @@ Assim, criamos um especialista de suporte ao usuário do sistema.
 basta fazer perguntas sobre os sitema que ele vai responder conforme as informações existentes na base. 
 Ainda é possibel obter mapa mental, audio resumo ou ainda apresentação do sistema.
 
-Na página do Desafio de Projeto aqui na DIO, clique no botão de entregar o projeto.
-Cole o link do seu repositório no GitHub, adicione uma descrição bacana sobre o tema que você estudou e confirme a entrega!
